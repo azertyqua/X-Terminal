@@ -1,0 +1,23 @@
+{
+  "name": "discord-terminal",
+  "version": "2.0.0",
+  "description": "Terminal Client for DiscordApp",
+  "main": "Discord-Terminal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://2E0PGS@bitbucket.org/2E0PGS/discord-terminal.git"
+  },
+  "author": "Peter Stevenson (2E0PGS)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "colors": "1.x.x",
+    "discord.js": "11.x.x",
+    "multiline": "1.x.x",
+    "request": "^2.88.0"
+  },
+  "homepage": "https://bitbucket.org/2E0PGS/discord-terminal#readme"
+}

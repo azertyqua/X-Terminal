@@ -1,0 +1,15 @@
+FAIRE:
+
+- Correction / join pour résoudre le nom du canal en ID de canal
+  Ce qui précède nécessite la liste des canaux par ID de serveur, sinon plusieurs serveurs portant le même nom de canal ne seront pas résolus.
+  obliger un utilisateur à rejoindre un serveur ou à spécifier un utilisateur lors de la liste des canaux.
+  puis stockez-le pour qu’ils rejoignent un canal, le dernier serveur utilisé pour la liste des canaux sera utilisé.
+
+- Corrige ou cherche le problème pour / channels ayant 2 derniers didgets erronés.
+
+- Concaténez les noms de serveur et les noms de canaux avec un point, par exemple: MyServer.ChannelName. Peut-être l'air plus intelligent.
+  ou utiliser l'idée ci-dessus.
+
+- Ajouter des mentions pour les utilisateurs.
+- Filtrer les onglets pour éviter le message vide à l'écran.
+- Ajoute la fonction d'ajout du dernier message. Peut-être. Par exemple, mon message / append est une mise à jour du dernier message que j'ai envoyé.
